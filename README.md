@@ -9,5 +9,5 @@ Fork this repo, and then simply point App Platform to your new repo. App Platfor
 
 ---  
 ## Ran successfully. 
--[Project URL](https://cloud.digitalocean.com/projects/a6db4e27-26b2-4baf-920e-b48eb3b41bb7/resources?i=846d88)
+-[Project URL](https://cloud.digitalocean.com/projects/a6db4e27-26b2-4baf-920e-b48eb3b41bb7/resources?i=846d88)  
 -[Live url](https://sea-lion-app-jgo2j.ondigitalocean.app/)
